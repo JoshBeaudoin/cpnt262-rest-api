@@ -1,0 +1,11 @@
+body {
+    text-align: start;
+  }
+  img{
+    width: 1000px;
+    height: auto;
+  }
+  .btn {
+    width: 100px;
+    padding: 25px;
+  }
